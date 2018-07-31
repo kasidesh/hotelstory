@@ -2,7 +2,12 @@
 The hotel story is the web builder kata who want to practice the skill
 
 
-# Story: One hotel in the world. They want to build a web site for thier room resevation. Their hotel has 50 rooms, 5 types with difference price.
+#  The Story: One hotel in the world. They want to build a web site for thier room reservation. Their hotel has 50 rooms, 5 types with difference price.
+
+# Wireframe
+
+[List room page ] (https://github.com/kasidesh/hotelstory/blob/master/hotelstory.png?raw=true)
+[Room detail page ] (https://github.com/kasidesh/hotelstory/blob/master/detail.png?raw=true)
 
 # These are your tasks
 1. Retreive data from database to display it on the your web site your build
@@ -13,5 +18,6 @@ The hotel story is the web builder kata who want to practice the skill
 
 # The Model
 1. User (id, username)
-2. Room (id, room_name, type, room_number, area, price)
+2. Room (id, room_name, type, room_number, area, price, room_description)
+3. RoomOption (id, room_id, has_wifi, has_breakfast)
 
