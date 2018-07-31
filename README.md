@@ -6,8 +6,8 @@ The hotel story is the web builder kata who want to practice the skill
 
 # Wireframe
 
-[List room page ] (https://github.com/kasidesh/hotelstory/blob/master/hotelstory.png?raw=true)
-[Room detail page ] (https://github.com/kasidesh/hotelstory/blob/master/detail.png?raw=true)
+![List room page](https://github.com/kasidesh/hotelstory/blob/master/hotelstory.png?raw=true)
+![Room detail page](https://github.com/kasidesh/hotelstory/blob/master/detail.png?raw=true)
 
 # These are your tasks
 1. Retreive data from database to display it on the your web site your build
