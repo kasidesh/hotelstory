@@ -1,5 +1,5 @@
 ## Task
-- ให้ Design HTML/CSS ให้การแสดงผลออกมาแบบเดียวกับหน้า https://www.skilllane.com/courses/tuxsa-design-thinking
+- ให้ใช้ React.JS สร้างหน้าเว็บให้แสดงผลออกมาแบบเดียวกับหน้า https://www.skilllane.com/courses/tuxsa-design-thinking
 - กล่อง video ให้ใส่รูปภาพที่มีขนาดเท่ากันมาใส่แทน
 - content ของ tab วิธีการชำระเงิน, ห้องสนทนา, รีวิว ไม่ต้องใส่เนื้อหาของ tab แต่ยังให้ทำ tab เหมือนหน้าเว็บปกติ
 - ตัด section "คอร์สที่เกี่ยวข้อง" ออกไป
