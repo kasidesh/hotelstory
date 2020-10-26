@@ -12,3 +12,16 @@ Return your answer in the form (x, y) or ([x, y], depending on the language ), w
 ## Score
 - Performance (response time when run the function)
 - Correction of logical
+
+
+Example Unit Test
+
+Test.describe("Example Tests")
+Test.assert_equals(largest_power(90), (81, 2))
+Test.assert_equals(largest_power(6), (4, 1))
+Test.assert_equals(largest_power(65), (64, 3))
+Test.assert_equals(largest_power(3), (1, -1))
+Test.assert_equals(largest_power(1), (0, -1))
+Test.assert_equals(largest_power(81), (64, 3))
+Test.assert_equals(largest_power(29), (27, 1))
+Test.assert_equals(largest_power(4), (1, -1))
